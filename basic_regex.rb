@@ -1,6 +1,6 @@
 string = "The quick 12 brown foxes jumped over the 10 lazy dogs"
 
-# Locates the point at which the paramater "quick" stars. In this example, quick begins at 4.
+# Locates the point at which the paramater "quick" starts. In this example, quick begins at 4.
 
 # p string =~ /quick/
 
