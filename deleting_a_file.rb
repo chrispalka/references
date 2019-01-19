@@ -1,1 +1,0 @@
-File.delete("edutechional_jordan_hudgens/teams.txt")
